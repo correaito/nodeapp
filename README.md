@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=correaito&label=Project%20views&color=0e75b6&style=flat" alt="correaito" /> </p>
 
-![imagem](https://img.shields.io/badge/-Javascript-yellow) ![imagem](https://img.shields.io/badge/-NodeJS-green) ![imagem](https://img.shields.io/badge/-Handlebars-orange)
+![imagem](https://img.shields.io/badge/-Javascript-yellow) ![imagem](https://img.shields.io/badge/-NodeJS-green) ![imagem](https://img.shields.io/badge/-Handlebars-orange) ![imagem](https://img.shields.io/badge/-Express-black)
 
 <a id="tecnologias" class="anchor"></a>
 ### :rocket:  Tecnologias
