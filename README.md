@@ -34,7 +34,7 @@ Da sua linha de comando:
     $ git clone https://github.com/correaito/nodeapp.git
     
     # Vá para o repositório
-    $ cd app_vendas
+    $ cd nodeapp
     
 Agora, para executar o servidor, dentro da pasta do projeto no VSCode, abra um terminal, e digite
 
