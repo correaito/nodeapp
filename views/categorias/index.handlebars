@@ -1,0 +1,21 @@
+<h4>Categorias: </h4>
+<br />
+
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th>Nome da Categoria</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{#each categorias}}
+     <tr>
+        <td><a href="/categorias/{{slug}}">{{nome}}</a></td>
+      </tr>
+    {{else}}
+      <tr>
+        <td>Nenhuma categoria registrada</td>
+      </tr>
+    {{/each}}
+  </tbody>
+</table>
