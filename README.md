@@ -44,7 +44,7 @@ Você também poderá utilizar o Nodemon para manter o servidor reiniciando auto
 
      $ nodemon app.js. 
 
-Após isso, basta abrir a aplicação, no navegador de internet, e na barra de navegação, digitar:
+Após isso, para abrir a aplicação, no navegador de internet, e na barra de navegação, digitar:
 
 https://localhost:8081/
 
